@@ -1,0 +1,23 @@
+{
+  "name": "group-random-number-guess",
+  "version": "1.0.0",
+  "description": "Team Random Number Guess =",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devjanaprime/groupRandomNumberGuess.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devjanaprime/groupRandomNumberGuess/issues"
+  },
+  "homepage": "https://github.com/devjanaprime/groupRandomNumberGuess#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  }
+}
