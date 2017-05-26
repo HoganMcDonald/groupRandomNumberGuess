@@ -61,13 +61,14 @@ function interpretResults(result) {
     case 1:
       return "Too high.";
     case 0:
-      winner();
-      break;
+      return winner();
     default:
       break;
   }
 }
 
 function winner() {
+  $('#resultsDiv').show();
 
+  return "winner";
 }
